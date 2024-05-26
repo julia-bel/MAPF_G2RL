@@ -1,0 +1,3 @@
+[submodule "pogema"]
+	path = pogema
+	url = https://github.com/AIRI-Institute/pogema.git
